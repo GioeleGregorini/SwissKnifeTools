@@ -8,6 +8,8 @@ if %errorlevel% neq 0 (
 
 :: Imposta la lingua predefinita (inglese)
 set LANG=en
+
+title SwissKnifeToolS - by GioeleGregorini
 chcp 65001
 
 :main_menu
