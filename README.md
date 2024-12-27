@@ -15,16 +15,6 @@ A batch multitool to activate some stuff.
 - **Activate Windows and Office:**  
   Uses the script hosted at: [Activate Windows and Office](https://get.activated.win/)
 
-### Contributing:  
-If you want to contribute to this project, please follow these steps:  
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature/new-feature`).  
-3. Commit your changes (`git commit -am 'Add new feature'`).  
-4. Push to the branch (`git push origin feature/new-feature`).  
-5. Open a pull request to review your changes.
-
-### License:  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -43,16 +33,6 @@ Un multitool batch per attivare alcune cose.
 - **Attiva Windows e Office:**  
   Utilizza lo script ospitato su: [Attiva Windows e Office](https://get.activated.win/)
 
-### Contribuire:  
-Se vuoi contribuire a questo progetto, segui questi passaggi:  
-1. Fai un fork del repository.  
-2. Crea una nuova branch (`git checkout -b feature/nuova-caratteristica`).  
-3. Fai commit delle modifiche (`git commit -am 'Aggiungere nuova caratteristica'`).  
-4. Fai push sulla branch (`git push origin feature/nuova-caratteristica`).  
-5. Apri una pull request per rivedere le tue modifiche.
-
-### Licenza:  
-Questo progetto è concesso in licenza sotto la Licenza MIT. Consulta il file [LICENSE](LICENSE) per ulteriori dettagli.
 
 ---
 
@@ -71,13 +51,4 @@ Una herramienta multitarea batch para activar algunas cosas.
 - **Activar Windows y Office:**  
   Utiliza el script alojado en: [Activar Windows y Office](https://get.activated.win/)
 
-### Contribuciones:  
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:  
-1. Haz un fork del repositorio.  
-2. Crea una nueva rama (`git checkout -b feature/nueva-característica`).  
-3. Realiza tus cambios y haz commit de ellos (`git commit -am 'Añadir nueva característica'`).  
-4. Haz push a la rama (`git push origin feature/nueva-característica`).  
-5. Abre un pull request para revisar tus cambios.
 
-### Licencia:  
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
