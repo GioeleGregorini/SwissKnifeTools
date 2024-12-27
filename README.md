@@ -9,7 +9,7 @@
 A batch multitool to activate some stuff.
 
 ### How to use:  
-1. Download [SwissKnifeToolS.bat](https://raw.githubusercontent.com/GioeleGregorini/SwissKnifeToolS/main/SwissKnifeToolS.bat).  
+1. Download `SwissKnifeToolS.bat`.  
 2. Right-click the file and run it as administrator.  
 3. The code is open source and easily customizable, so you can modify it to create your own multitool if needed.
 
