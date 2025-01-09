@@ -8,7 +8,7 @@
 A batch multitool to activate some stuff.
 
 ### How to use:  
-1. Download `SwissKnifeToolS.bat`.  
+1. Download `SwissKnifeTools.bat`.  
 2. Right-click the file and run it as administrator.  
 3. The code is open source and easily customizable, so you can modify it to create your own multitool if needed.
 
@@ -29,7 +29,7 @@ A batch multitool to activate some stuff.
 Un multitool batch per attivare alcune cose.
 
 ### Come usare:  
-1. Scarica `SwissKnifeToolS.bat`.  
+1. Scarica `SwissKnifeTools.bat`.  
 2. Fai clic con il tasto destro sul file e avvialo come amministratore.  
 3. Il codice è open source e facilmente personalizzabile, quindi puoi modificarlo per creare il tuo multitool, se necessario.
 
@@ -50,7 +50,7 @@ Un multitool batch per attivare alcune cose.
 Una herramienta multitarea batch para activar algunas cosas.
 
 ### Cómo usar:  
-1. Descarga `SwissKnifeToolS.bat`.  
+1. Descarga `SwissKnifeTools.bat`.  
 2. Haz clic derecho en el archivo y ejecútalo como administrador.  
 3. El código es de código abierto y fácilmente personalizable, por lo que puedes modificarlo para crear tu propia herramienta multitarea si es necesario.
 
