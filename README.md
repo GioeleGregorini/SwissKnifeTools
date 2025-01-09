@@ -1,7 +1,6 @@
 # SwissKnifeToolS
 
-![image](https://github.com/user-attachments/assets/a0ac94e1-5e0e-4a14-bf36-aa6518b778a3)
-
+![image](https://github.com/user-attachments/assets/db277c52-f769-45d5-8743-c0f0574e0da3)
 
 ---
 
@@ -20,6 +19,9 @@ A batch multitool to activate some stuff.
 - **Activate Windows and Office:**  
   Uses the script hosted at: [Activate Windows and Office](https://get.activated.win/)
 
+- **Install Spicify:**  
+  Uses PowerShell to install [Spicify](https://spicetify.app/), a tool that modifies the Spotify client to enhance its features and appearance.  
+  This only works on the Spotify downloaded from the [official website](https://www.spotify.com/it/download/windows/)
 
 ---
 
@@ -38,6 +40,9 @@ Un multitool batch per attivare alcune cose.
 - **Attiva Windows e Office:**  
   Utilizza lo script ospitato su: [Attiva Windows e Office](https://get.activated.win/)
 
+- **Installa Spicify:**  
+  Utilizza PowerShell per installare [Spicify](https://spicetify.app/), uno strumento che modifica il client Spotify per migliorare le sue funzionalità e l'aspetto.  
+  Questo funziona solo sulla versione di Spotify scaricata dal [sito ufficiale](https://www.spotify.com/it/download/windows/)
 
 ---
 
@@ -56,6 +61,6 @@ Una herramienta multitarea batch para activar algunas cosas.
 - **Activar Windows y Office:**  
   Utiliza el script alojado en: [Activar Windows y Office](https://get.activated.win/)
 
-
-
----
+- **Instalar Spicify:**  
+  Utiliza PowerShell para instalar [Spicify](https://spicetify.app/), una herramienta que modifica el cliente de Spotify para mejorar sus características y apariencia.  
+  Esto solo funciona con la versión de Spotify descargada desde el [sitio web oficial](https://www.spotify.com/it/download/windows/)
