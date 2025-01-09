@@ -1,4 +1,4 @@
-# SwissKnifeToolS
+# SwissKnifeTools
 
 ![image](https://github.com/user-attachments/assets/db277c52-f769-45d5-8743-c0f0574e0da3)
 
